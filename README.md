@@ -16,6 +16,7 @@ npx wrangler deploy
 ```
 
 Cron trigger is based on the following schedule. You can edit it as needed, thanks.
+
 (Every day at 00:00:00 am UTC)
 
 ```
